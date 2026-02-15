@@ -26,9 +26,23 @@
 
 #Add element:
 
-collection = set()
-collection.add(1)
-collection.add(2)
-collection.add(3)
-print(collection)
+# collection = set()
+# collection.add(1)
+# collection.add(2)
+# collection.add(3)
+# print(collection)
+# # print(len(collection))
+# # print(sum(collection))
+# collection.add((5, 6, 7))
+# # collection.add([8, 9, 10]) #it will the error because the mutable.
+# print(collection)
 
+# #Remove element:
+
+# collection.remove(1)
+# print(collection)
+
+# #Discard element:
+
+# collection.discard(2)
+# print(collection)
