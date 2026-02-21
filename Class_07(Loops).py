@@ -9,14 +9,15 @@
 #While loop
 #While loop is used to execute a block of code repeatedly until a condition is met.
 
-a = 10
-while a >= 0:
-    a -= 1
-    print(a)
+# a = 10
+# while a >= 0:
+#     a -= 1
+#     print(a)
 
 count = 4
 while count < 5:
-print("Count is 5")    
+   print(count)
+   count += 1    
 
 
 
