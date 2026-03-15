@@ -11,17 +11,21 @@
 # Clarity: Improves readability by using descriptive names for tasks (e.g.,
 
 #Some are the examples:
+#1.
+def greet():
+    """A simple function that prints a greeting."""
+    print("Hello!")
 
-# def greet():
-#     """A simple function that prints a greeting."""
-#     print("Hello!")
+greet()  # Call the function
 
-# greet()  # Call the function
+#2.
 
-# def sum(a, b):
-#     s = a + b
-#     print(s)
-#     return s
+def sum(a, b):
+    s = a + b
+    print(s)
+    return s
+
+#3.
 
 def sum(c, b):
     c =10
